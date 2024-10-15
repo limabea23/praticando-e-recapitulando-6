@@ -1,0 +1,21 @@
+* { 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #000000;
+}
+
+.caixa{
+    background-color: #f7a744;
+}
+
+article{
+    background-color: #daeb19;
+}
+
+.caixinha{
+    background-color: #4c88cc;
+}
+
+.caixinha2{
+    background-color: #dbdfe3;
+}
