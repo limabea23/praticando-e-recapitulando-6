@@ -1,21 +1,54 @@
 * { 
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
+    text-align: center;
     color: #000000;
+    padding: 20px;
+}
+
+header{
+    display: flex;
 }
 
 .caixa{
     background-color: #f7a744;
+    height: 5rem;
+    width: 50%;
+    margin: 5px;
 }
 
 article{
     background-color: #daeb19;
+    height: 10rem;
+}
+
+.section-caixinha{
+    display: flex;
+    flex-direction: row;
 }
 
 .caixinha{
     background-color: #4c88cc;
+    height: 5rem;
+    width: 100%;
+    margin: 5px;
+}
+
+footer{
+    display: flex;
 }
 
 .caixinha2{
     background-color: #dbdfe3;
+    height: 5rem;
+    width: 25%;
+    margin: 5px;
+}
+
+@media (min-width: 768px ) {
+    
+}
+
+@media (max-width: 320px){
+
 }
